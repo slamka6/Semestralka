@@ -1,0 +1,20 @@
+.kontakt {
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+}
+
+.card {
+    border-radius: 0 !important;
+
+}
+.responzivne {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+
+
